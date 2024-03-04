@@ -1,5 +1,5 @@
 ## Machine Learning-Powered Real Estate Analytics
-Pandas, Random Forest, Scikit-learn
+Pandas, Random Forest, KNN, Logistic Regression, Scikit-learn
 
 •	Developed an interface of a machine learning model
 
