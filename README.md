@@ -1,5 +1,5 @@
 ## Machine Learning-Powered Real Estate Analytics
-Pandas, Yfinance, Random Forest, Scikit-learn, Streamlit
+Pandas, Random Forest, Scikit-learn
 
 •	Developed an interface of a machine learning model
 
